@@ -1,0 +1,2 @@
+# This is a placeholder file for user memory storage
+# In practice, this would be populated by the RAG pipeline 
